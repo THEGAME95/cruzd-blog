@@ -20,3 +20,13 @@
 [10-Feb-2015 22:47:23 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\cruzd-blog/veiw/footer.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\cruzd-blog\post.php on line 4
 [11-Feb-2015 22:36:13 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\cruzd-blog/veiw/footer.php): failed to open stream: No such file or directory in C:\xampp\htdocs\cruzd-blog\post.php on line 4
 [11-Feb-2015 22:36:13 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\cruzd-blog/veiw/footer.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\cruzd-blog\post.php on line 4
+[17-Feb-2015 07:04:57 Europe/Berlin] PHP Notice:  Use of undefined constant DIR__ - assumed 'DIR__' in C:\xampp\htdocs\cruzd-blog\view\form.php on line 2
+[17-Feb-2015 07:07:38 Europe/Berlin] PHP Notice:  Use of undefined constant filer - assumed 'filer' in C:\xampp\htdocs\cruzd-blog\controller\create-post.php on line 2
+[17-Feb-2015 07:07:38 Europe/Berlin] PHP Fatal error:  Call to undefined function input() in C:\xampp\htdocs\cruzd-blog\controller\create-post.php on line 2
+[17-Feb-2015 07:13:26 Europe/Berlin] PHP Notice:  Use of undefined constant filter - assumed 'filter' in C:\xampp\htdocs\cruzd-blog\controller\create-post.php on line 2
+[17-Feb-2015 07:13:26 Europe/Berlin] PHP Fatal error:  Call to undefined function input() in C:\xampp\htdocs\cruzd-blog\controller\create-post.php on line 2
+[17-Feb-2015 07:14:31 Europe/Berlin] PHP Notice:  Undefined variable: title in C:\xampp\htdocs\cruzd-blog\controller\create-post.php on line 5
+[17-Feb-2015 07:16:38 Europe/Berlin] PHP Notice:  Undefined variable: title in C:\xampp\htdocs\cruzd-blog\controller\create-post.php on line 5
+[17-Feb-2015 16:14:49 Europe/Berlin] PHP Notice:  Undefined variable: title in C:\xampp\htdocs\cruzd-blog\controller\create-post.php on line 9
+[17-Feb-2015 17:00:05 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\cruzd-blog\controller/../model/database.php): failed to open stream: No such file or directory in C:\xampp\htdocs\cruzd-blog\controller\create-db.php on line 2
+[17-Feb-2015 17:00:05 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\cruzd-blog\controller/../model/database.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\cruzd-blog\controller\create-db.php on line 2
